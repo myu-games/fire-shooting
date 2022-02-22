@@ -1,0 +1,36 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "931101069302-91hma189tmpv5o68ue8gj1luif55kdau.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmBMU8nF5g9bBWkLj7MDus4gF5ySOyEfA"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:931101069302:ios:764a439a0ed2bcddd0c1d7", 
+        "android_client_info": {
+          "package_name": "com.kanaru.fire-shooting"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "fire-shooting-0000.appspot.com", 
+    "project_id": "fire-shooting-0000", 
+    "project_number": "931101069302"
+  }
+}
